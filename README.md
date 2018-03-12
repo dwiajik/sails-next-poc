@@ -1,6 +1,6 @@
 # Sails.js + Next.js: Proof of Concept
 
-A [Sails](http://sailsjs.org) and [Next](https://github.com/zeit/next.js/) application
+A [Sails](http://sailsjs.org) and [Next](https://github.com/zeit/next.js/) application. The integration between Sails.js and Next.js is inspired by https://github.com/RasCarlito/sails-hook-next.
 
 ## Getting started
 
